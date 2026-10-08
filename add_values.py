@@ -2,7 +2,10 @@ def add(*values):
     """Return the sum of all given numeric values."""
     return sum(values)
 
-
+print("Please enter a valid number.")
+print("Please enter a valid number.")
+print("Please enter a valid number.")
+print("Please enter a valid number.")
 def main():
     print("Simple Addition Program")
     print("Enter numbers to add (leave blank and press Enter to finish):")
